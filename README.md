@@ -10,6 +10,7 @@ N/A
 
 ## Usage
 
+This site is available at: https://johna98.github.io/Work-Day-Scheduler/
 Landing Page
 <img width="1728" alt="Landing" src="https://github.com/JohnA98/Work-Day-Scheduler/assets/111317228/ff3bafca-01a1-43d5-82b0-bdda9aa59f0e">
 
