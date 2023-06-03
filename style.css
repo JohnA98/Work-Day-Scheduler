@@ -29,9 +29,9 @@ textarea {
   color: #000000;
   border-top: 1px dashed #000000;
 }
-
+/* #d3d3d3; */
 .past {
-  background-color: #d3d3d3;
+  background-color: #c61f1f;
   color: white;
 }
 
