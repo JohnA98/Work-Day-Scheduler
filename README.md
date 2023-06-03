@@ -10,10 +10,11 @@ N/A
 
 ## Usage
 
-Landingpic
+Landing Page
+<img width="1728" alt="Landing" src="https://github.com/JohnA98/Work-Day-Scheduler/assets/111317228/ff3bafca-01a1-43d5-82b0-bdda9aa59f0e">
 
 To use this website, simply fill in information on what events you would like to do throughout your work day. They can consist of meetings, actual work, and even lunch breaks.
-Filling-in-work
+Filling-in-work<img width="1625" alt="Filling-in-work" src="https://github.com/JohnA98/Work-Day-Scheduler/assets/111317228/388ca8fc-7bf6-4437-8ee1-9e610e7674f0">
 
 From there, hit the save button to the right and the information is saved to the local storage, so if you ever leave the page, you can still have your events available.
 
